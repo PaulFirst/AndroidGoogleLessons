@@ -11,9 +11,7 @@ Its realization aims to study and experience such things as:
 - Displaying images via ImageView
 - Extracting text into a string resource
 
-
-
-##### Visual results
+#### Visual results
 
 <img src="./examples/image1.jpg" alt="image1" style="width:250px;" />
 
