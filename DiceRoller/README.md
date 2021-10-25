@@ -13,7 +13,5 @@ Its realization aims to study and experience such things as:
 
 #### Visual results
 
-<img src="./examples/image1.jpg" alt="image1" style="width:250px;" />
-
-<img src="./examples/image2.jpg" alt="image1" style="width:250px;" />
+<img src="./examples/image1.jpg" alt="image1" style="width:250px;" /> &nbsp; <img src="./examples/image2.jpg" alt="image1" style="width:250px;" />
 
