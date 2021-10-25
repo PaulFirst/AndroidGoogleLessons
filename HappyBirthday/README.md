@@ -15,4 +15,5 @@ Its realization aims to study and experience such things as:
 
 ##### Visual results
 
-<img src="D:\User\Desktop\AndroidGoogle\HappyBirthday\examples\image1.jpg" style="zoom:33%;" />
+<img src="./examples/image1.jpg" alt="image1" style="zoom:33%;" />
+
